@@ -18,6 +18,7 @@
  *  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
  *  MA  02110-1301  USA
  */
+#pragma GCC diagnostic ignored "-Wdeprecated-declarations"
 
 #include "private-libwebsockets.h"
  #include <openssl/err.h>
